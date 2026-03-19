@@ -1,4 +1,7 @@
 .DS_Store
+.venv-test/
 output/
+sample.txt
+sample.wav
 skills/argentine-voiceover/.venv/
 skills/argentine-voiceover/models/
