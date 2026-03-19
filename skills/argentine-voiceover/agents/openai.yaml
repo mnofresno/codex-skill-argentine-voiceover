@@ -1,0 +1,7 @@
+interface:
+  display_name: "Argentine Voiceover"
+  short_description: "Recovered Argentine real-estate voiceover pipeline"
+  default_prompt: "Use $argentine-voiceover to generate an Argentine female narration with the recovered Piper pipeline, sync it to my property video, and export the mixed MP4."
+
+policy:
+  allow_implicit_invocation: true
